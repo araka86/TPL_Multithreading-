@@ -1,0 +1,45 @@
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\bin\Debug\net6.0\Lab5_1_ConcurrentBag.exe
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\bin\Debug\net6.0\Lab5_1_ConcurrentBag.deps.json
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\bin\Debug\net6.0\Lab5_1_ConcurrentBag.runtimeconfig.json
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\bin\Debug\net6.0\Lab5_1_ConcurrentBag.dll
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\bin\Debug\net6.0\Lab5_1_ConcurrentBag.pdb
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\Lab5_1_ConcurrentBag.csproj.AssemblyReference.cache
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\Lab5_1_ConcurrentBag.GeneratedMSBuildEditorConfig.editorconfig
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\Lab5_1_ConcurrentBag.AssemblyInfoInputs.cache
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\Lab5_1_ConcurrentBag.AssemblyInfo.cs
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\Lab5_1_ConcurrentBag.csproj.CoreCompileInputs.cache
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\Lab5_1_ConcurrentBag.dll
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\refint\Lab5_1_ConcurrentBag.dll
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\Lab5_1_ConcurrentBag.pdb
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\Lab5_1_ConcurrentBag.genruntimeconfig.cache
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\ref\Lab5_1_ConcurrentBag.dll
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\bin\Debug\net6.0\Lab5_1_ConcurrentBag.exe
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\bin\Debug\net6.0\Lab5_1_ConcurrentBag.deps.json
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\bin\Debug\net6.0\Lab5_1_ConcurrentBag.runtimeconfig.json
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\bin\Debug\net6.0\Lab5_1_ConcurrentBag.dll
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\bin\Debug\net6.0\Lab5_1_ConcurrentBag.pdb
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\Lab5_1_ConcurrentBag.csproj.AssemblyReference.cache
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\Lab5_1_ConcurrentBag.GeneratedMSBuildEditorConfig.editorconfig
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\Lab5_1_ConcurrentBag.AssemblyInfoInputs.cache
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\Lab5_1_ConcurrentBag.AssemblyInfo.cs
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\Lab5_1_ConcurrentBag.csproj.CoreCompileInputs.cache
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\Lab5_1_ConcurrentBag.dll
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\refint\Lab5_1_ConcurrentBag.dll
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\Lab5_1_ConcurrentBag.pdb
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\Lab5_1_ConcurrentBag.genruntimeconfig.cache
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\ref\Lab5_1_ConcurrentBag.dll
+D:\Udemy\Paralell\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\bin\Debug\net6.0\Lab5_1_ConcurrentBag.exe
+D:\Udemy\Paralell\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\bin\Debug\net6.0\Lab5_1_ConcurrentBag.deps.json
+D:\Udemy\Paralell\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\bin\Debug\net6.0\Lab5_1_ConcurrentBag.runtimeconfig.json
+D:\Udemy\Paralell\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\bin\Debug\net6.0\Lab5_1_ConcurrentBag.dll
+D:\Udemy\Paralell\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\bin\Debug\net6.0\Lab5_1_ConcurrentBag.pdb
+D:\Udemy\Paralell\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\Lab5_1_ConcurrentBag.csproj.AssemblyReference.cache
+D:\Udemy\Paralell\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\Lab5_1_ConcurrentBag.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\Paralell\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\Lab5_1_ConcurrentBag.AssemblyInfoInputs.cache
+D:\Udemy\Paralell\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\Lab5_1_ConcurrentBag.AssemblyInfo.cs
+D:\Udemy\Paralell\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\Lab5_1_ConcurrentBag.csproj.CoreCompileInputs.cache
+D:\Udemy\Paralell\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\Lab5_1_ConcurrentBag.dll
+D:\Udemy\Paralell\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\refint\Lab5_1_ConcurrentBag.dll
+D:\Udemy\Paralell\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\Lab5_1_ConcurrentBag.pdb
+D:\Udemy\Paralell\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\Lab5_1_ConcurrentBag.genruntimeconfig.cache
+D:\Udemy\Paralell\Lab5_Cuncurrent_collection\Lab5_1_ConcurrentBag\obj\Debug\net6.0\ref\Lab5_1_ConcurrentBag.dll

@@ -1,0 +1,16 @@
+D:\Udemy\Paralell\Lab3\Lab3_2\bin\Debug\net5.0\Lab3_2_Parallel.For ()_KeyRsa.exe
+D:\Udemy\Paralell\Lab3\Lab3_2\bin\Debug\net5.0\Lab3_2_Parallel.For ()_KeyRsa.deps.json
+D:\Udemy\Paralell\Lab3\Lab3_2\bin\Debug\net5.0\Lab3_2_Parallel.For ()_KeyRsa.runtimeconfig.json
+D:\Udemy\Paralell\Lab3\Lab3_2\bin\Debug\net5.0\Lab3_2_Parallel.For ()_KeyRsa.runtimeconfig.dev.json
+D:\Udemy\Paralell\Lab3\Lab3_2\bin\Debug\net5.0\Lab3_2_Parallel.For ()_KeyRsa.dll
+D:\Udemy\Paralell\Lab3\Lab3_2\bin\Debug\net5.0\Lab3_2_Parallel.For ()_KeyRsa.pdb
+D:\Udemy\Paralell\Lab3\Lab3_2\obj\Debug\net5.0\Lab3_2_Parallel.For ()_KeyRsa.csproj.AssemblyReference.cache
+D:\Udemy\Paralell\Lab3\Lab3_2\obj\Debug\net5.0\Lab3_2_Parallel.For ()_KeyRsa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\Paralell\Lab3\Lab3_2\obj\Debug\net5.0\Lab3_2_Parallel.For ()_KeyRsa.AssemblyInfoInputs.cache
+D:\Udemy\Paralell\Lab3\Lab3_2\obj\Debug\net5.0\Lab3_2_Parallel.For ()_KeyRsa.AssemblyInfo.cs
+D:\Udemy\Paralell\Lab3\Lab3_2\obj\Debug\net5.0\Lab3_2_Parallel.For ()_KeyRsa.csproj.CoreCompileInputs.cache
+D:\Udemy\Paralell\Lab3\Lab3_2\obj\Debug\net5.0\Lab3_2_Parallel.For ()_KeyRsa.dll
+D:\Udemy\Paralell\Lab3\Lab3_2\obj\Debug\net5.0\refint\Lab3_2_Parallel.For ()_KeyRsa.dll
+D:\Udemy\Paralell\Lab3\Lab3_2\obj\Debug\net5.0\Lab3_2_Parallel.For ()_KeyRsa.pdb
+D:\Udemy\Paralell\Lab3\Lab3_2\obj\Debug\net5.0\Lab3_2_Parallel.For ()_KeyRsa.genruntimeconfig.cache
+D:\Udemy\Paralell\Lab3\Lab3_2\obj\Debug\net5.0\ref\Lab3_2_Parallel.For ()_KeyRsa.dll

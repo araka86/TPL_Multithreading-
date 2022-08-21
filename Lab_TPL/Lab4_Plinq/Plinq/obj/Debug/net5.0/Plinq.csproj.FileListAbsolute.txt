@@ -1,0 +1,5 @@
+D:\МНТУ\Lab4_1\Plinq\obj\Debug\net5.0\Plinq.csproj.AssemblyReference.cache
+D:\МНТУ\Lab4_1\Plinq\obj\Debug\net5.0\Plinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\МНТУ\Lab4_1\Plinq\obj\Debug\net5.0\Plinq.AssemblyInfoInputs.cache
+D:\МНТУ\Lab4_1\Plinq\obj\Debug\net5.0\Plinq.AssemblyInfo.cs
+D:\МНТУ\Lab4_1\Plinq\obj\Debug\net5.0\Plinq.csproj.CoreCompileInputs.cache

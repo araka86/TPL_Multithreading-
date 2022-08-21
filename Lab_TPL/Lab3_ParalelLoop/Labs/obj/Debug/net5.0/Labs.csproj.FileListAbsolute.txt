@@ -1,0 +1,16 @@
+D:\Udemy\Paralell\Lab3\Labs\bin\Debug\net5.0\Labs.exe
+D:\Udemy\Paralell\Lab3\Labs\bin\Debug\net5.0\Labs.deps.json
+D:\Udemy\Paralell\Lab3\Labs\bin\Debug\net5.0\Labs.runtimeconfig.json
+D:\Udemy\Paralell\Lab3\Labs\bin\Debug\net5.0\Labs.runtimeconfig.dev.json
+D:\Udemy\Paralell\Lab3\Labs\bin\Debug\net5.0\Labs.dll
+D:\Udemy\Paralell\Lab3\Labs\bin\Debug\net5.0\Labs.pdb
+D:\Udemy\Paralell\Lab3\Labs\obj\Debug\net5.0\Labs.csproj.AssemblyReference.cache
+D:\Udemy\Paralell\Lab3\Labs\obj\Debug\net5.0\Labs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\Paralell\Lab3\Labs\obj\Debug\net5.0\Labs.AssemblyInfoInputs.cache
+D:\Udemy\Paralell\Lab3\Labs\obj\Debug\net5.0\Labs.AssemblyInfo.cs
+D:\Udemy\Paralell\Lab3\Labs\obj\Debug\net5.0\Labs.csproj.CoreCompileInputs.cache
+D:\Udemy\Paralell\Lab3\Labs\obj\Debug\net5.0\Labs.dll
+D:\Udemy\Paralell\Lab3\Labs\obj\Debug\net5.0\refint\Labs.dll
+D:\Udemy\Paralell\Lab3\Labs\obj\Debug\net5.0\Labs.pdb
+D:\Udemy\Paralell\Lab3\Labs\obj\Debug\net5.0\Labs.genruntimeconfig.cache
+D:\Udemy\Paralell\Lab3\Labs\obj\Debug\net5.0\ref\Labs.dll

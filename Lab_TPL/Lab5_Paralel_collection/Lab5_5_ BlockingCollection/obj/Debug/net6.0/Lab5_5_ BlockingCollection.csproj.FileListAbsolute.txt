@@ -1,0 +1,30 @@
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\bin\Debug\net6.0\Lab5_5_ BlockingCollection.exe
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\bin\Debug\net6.0\Lab5_5_ BlockingCollection.deps.json
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\bin\Debug\net6.0\Lab5_5_ BlockingCollection.runtimeconfig.json
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\bin\Debug\net6.0\Lab5_5_ BlockingCollection.dll
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\bin\Debug\net6.0\Lab5_5_ BlockingCollection.pdb
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\obj\Debug\net6.0\Lab5_5_ BlockingCollection.csproj.AssemblyReference.cache
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\obj\Debug\net6.0\Lab5_5_ BlockingCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\obj\Debug\net6.0\Lab5_5_ BlockingCollection.AssemblyInfoInputs.cache
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\obj\Debug\net6.0\Lab5_5_ BlockingCollection.AssemblyInfo.cs
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\obj\Debug\net6.0\Lab5_5_ BlockingCollection.csproj.CoreCompileInputs.cache
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\obj\Debug\net6.0\Lab5_5_ BlockingCollection.dll
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\obj\Debug\net6.0\refint\Lab5_5_ BlockingCollection.dll
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\obj\Debug\net6.0\Lab5_5_ BlockingCollection.pdb
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\obj\Debug\net6.0\Lab5_5_ BlockingCollection.genruntimeconfig.cache
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\obj\Debug\net6.0\ref\Lab5_5_ BlockingCollection.dll
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\bin\Debug\net6.0\Lab5_5_ BlockingCollection.exe
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\bin\Debug\net6.0\Lab5_5_ BlockingCollection.deps.json
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\bin\Debug\net6.0\Lab5_5_ BlockingCollection.runtimeconfig.json
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\bin\Debug\net6.0\Lab5_5_ BlockingCollection.dll
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\bin\Debug\net6.0\Lab5_5_ BlockingCollection.pdb
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\obj\Debug\net6.0\Lab5_5_ BlockingCollection.csproj.AssemblyReference.cache
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\obj\Debug\net6.0\Lab5_5_ BlockingCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\obj\Debug\net6.0\Lab5_5_ BlockingCollection.AssemblyInfoInputs.cache
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\obj\Debug\net6.0\Lab5_5_ BlockingCollection.AssemblyInfo.cs
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\obj\Debug\net6.0\Lab5_5_ BlockingCollection.csproj.CoreCompileInputs.cache
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\obj\Debug\net6.0\Lab5_5_ BlockingCollection.dll
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\obj\Debug\net6.0\refint\Lab5_5_ BlockingCollection.dll
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\obj\Debug\net6.0\Lab5_5_ BlockingCollection.pdb
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\obj\Debug\net6.0\Lab5_5_ BlockingCollection.genruntimeconfig.cache
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_5_ BlockingCollection\obj\Debug\net6.0\ref\Lab5_5_ BlockingCollection.dll

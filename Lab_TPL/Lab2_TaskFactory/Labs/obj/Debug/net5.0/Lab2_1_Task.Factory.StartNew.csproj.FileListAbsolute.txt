@@ -1,0 +1,16 @@
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab2\Labs\bin\Debug\net5.0\Lab2_1_Task.Factory.StartNew.exe
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab2\Labs\bin\Debug\net5.0\Lab2_1_Task.Factory.StartNew.deps.json
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab2\Labs\bin\Debug\net5.0\Lab2_1_Task.Factory.StartNew.runtimeconfig.json
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab2\Labs\bin\Debug\net5.0\Lab2_1_Task.Factory.StartNew.runtimeconfig.dev.json
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab2\Labs\bin\Debug\net5.0\Lab2_1_Task.Factory.StartNew.dll
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab2\Labs\bin\Debug\net5.0\Lab2_1_Task.Factory.StartNew.pdb
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab2\Labs\obj\Debug\net5.0\Lab2_1_Task.Factory.StartNew.csproj.AssemblyReference.cache
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab2\Labs\obj\Debug\net5.0\Lab2_1_Task.Factory.StartNew.GeneratedMSBuildEditorConfig.editorconfig
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab2\Labs\obj\Debug\net5.0\Lab2_1_Task.Factory.StartNew.AssemblyInfoInputs.cache
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab2\Labs\obj\Debug\net5.0\Lab2_1_Task.Factory.StartNew.AssemblyInfo.cs
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab2\Labs\obj\Debug\net5.0\Lab2_1_Task.Factory.StartNew.csproj.CoreCompileInputs.cache
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab2\Labs\obj\Debug\net5.0\Lab2_1_Task.Factory.StartNew.dll
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab2\Labs\obj\Debug\net5.0\refint\Lab2_1_Task.Factory.StartNew.dll
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab2\Labs\obj\Debug\net5.0\Lab2_1_Task.Factory.StartNew.pdb
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab2\Labs\obj\Debug\net5.0\Lab2_1_Task.Factory.StartNew.genruntimeconfig.cache
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab2\Labs\obj\Debug\net5.0\ref\Lab2_1_Task.Factory.StartNew.dll

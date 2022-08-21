@@ -1,0 +1,16 @@
+D:\Udemy\Paralell\Lab3\Lab3_3\bin\Debug\net5.0\Lab3_3_Parallel.For ().exe
+D:\Udemy\Paralell\Lab3\Lab3_3\bin\Debug\net5.0\Lab3_3_Parallel.For ().deps.json
+D:\Udemy\Paralell\Lab3\Lab3_3\bin\Debug\net5.0\Lab3_3_Parallel.For ().runtimeconfig.json
+D:\Udemy\Paralell\Lab3\Lab3_3\bin\Debug\net5.0\Lab3_3_Parallel.For ().runtimeconfig.dev.json
+D:\Udemy\Paralell\Lab3\Lab3_3\bin\Debug\net5.0\Lab3_3_Parallel.For ().dll
+D:\Udemy\Paralell\Lab3\Lab3_3\bin\Debug\net5.0\Lab3_3_Parallel.For ().pdb
+D:\Udemy\Paralell\Lab3\Lab3_3\obj\Debug\net5.0\Lab3_3_Parallel.For ().csproj.AssemblyReference.cache
+D:\Udemy\Paralell\Lab3\Lab3_3\obj\Debug\net5.0\Lab3_3_Parallel.For ().GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\Paralell\Lab3\Lab3_3\obj\Debug\net5.0\Lab3_3_Parallel.For ().AssemblyInfoInputs.cache
+D:\Udemy\Paralell\Lab3\Lab3_3\obj\Debug\net5.0\Lab3_3_Parallel.For ().AssemblyInfo.cs
+D:\Udemy\Paralell\Lab3\Lab3_3\obj\Debug\net5.0\Lab3_3_Parallel.For ().csproj.CoreCompileInputs.cache
+D:\Udemy\Paralell\Lab3\Lab3_3\obj\Debug\net5.0\Lab3_3_Parallel.For ().dll
+D:\Udemy\Paralell\Lab3\Lab3_3\obj\Debug\net5.0\refint\Lab3_3_Parallel.For ().dll
+D:\Udemy\Paralell\Lab3\Lab3_3\obj\Debug\net5.0\Lab3_3_Parallel.For ().pdb
+D:\Udemy\Paralell\Lab3\Lab3_3\obj\Debug\net5.0\Lab3_3_Parallel.For ().genruntimeconfig.cache
+D:\Udemy\Paralell\Lab3\Lab3_3\obj\Debug\net5.0\ref\Lab3_3_Parallel.For ().dll

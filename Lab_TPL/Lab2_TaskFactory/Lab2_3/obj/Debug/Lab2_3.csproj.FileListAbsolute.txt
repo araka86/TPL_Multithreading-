@@ -1,0 +1,6 @@
+D:\МНТУ\Lab2\Lab2_3\obj\Debug\Lab2_3.csproj.AssemblyReference.cache
+D:\МНТУ\Lab2\Lab2_3\obj\Debug\Lab2_3.csproj.SuggestedBindingRedirects.cache
+D:\МНТУ\Lab2\Lab2_3\obj\Debug\Lab2_3.Form1.resources
+D:\МНТУ\Lab2\Lab2_3\obj\Debug\Lab2_3.Properties.Resources.resources
+D:\МНТУ\Lab2\Lab2_3\obj\Debug\Lab2_3.csproj.GenerateResource.cache
+D:\МНТУ\Lab2\Lab2_3\obj\Debug\Lab2_3.csproj.CoreCompileInputs.cache

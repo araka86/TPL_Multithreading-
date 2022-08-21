@@ -1,0 +1,30 @@
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\bin\Debug\net6.0\Lab5_4_CuncurrentDictionary+IEq.exe
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\bin\Debug\net6.0\Lab5_4_CuncurrentDictionary+IEq.deps.json
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\bin\Debug\net6.0\Lab5_4_CuncurrentDictionary+IEq.runtimeconfig.json
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\bin\Debug\net6.0\Lab5_4_CuncurrentDictionary+IEq.dll
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\bin\Debug\net6.0\Lab5_4_CuncurrentDictionary+IEq.pdb
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\obj\Debug\net6.0\Lab5_4_CuncurrentDictionary+IEq.csproj.AssemblyReference.cache
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\obj\Debug\net6.0\Lab5_4_CuncurrentDictionary+IEq.GeneratedMSBuildEditorConfig.editorconfig
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\obj\Debug\net6.0\Lab5_4_CuncurrentDictionary+IEq.AssemblyInfoInputs.cache
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\obj\Debug\net6.0\Lab5_4_CuncurrentDictionary+IEq.AssemblyInfo.cs
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\obj\Debug\net6.0\Lab5_4_CuncurrentDictionary+IEq.csproj.CoreCompileInputs.cache
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\obj\Debug\net6.0\Lab5_4_CuncurrentDictionary+IEq.dll
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\obj\Debug\net6.0\refint\Lab5_4_CuncurrentDictionary+IEq.dll
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\obj\Debug\net6.0\Lab5_4_CuncurrentDictionary+IEq.pdb
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\obj\Debug\net6.0\Lab5_4_CuncurrentDictionary+IEq.genruntimeconfig.cache
+D:\МНТУ\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\obj\Debug\net6.0\ref\Lab5_4_CuncurrentDictionary+IEq.dll
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\bin\Debug\net6.0\Lab5_4_CuncurrentDictionary+IEq.exe
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\bin\Debug\net6.0\Lab5_4_CuncurrentDictionary+IEq.deps.json
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\bin\Debug\net6.0\Lab5_4_CuncurrentDictionary+IEq.runtimeconfig.json
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\bin\Debug\net6.0\Lab5_4_CuncurrentDictionary+IEq.dll
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\bin\Debug\net6.0\Lab5_4_CuncurrentDictionary+IEq.pdb
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\obj\Debug\net6.0\Lab5_4_CuncurrentDictionary+IEq.csproj.AssemblyReference.cache
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\obj\Debug\net6.0\Lab5_4_CuncurrentDictionary+IEq.GeneratedMSBuildEditorConfig.editorconfig
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\obj\Debug\net6.0\Lab5_4_CuncurrentDictionary+IEq.AssemblyInfoInputs.cache
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\obj\Debug\net6.0\Lab5_4_CuncurrentDictionary+IEq.AssemblyInfo.cs
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\obj\Debug\net6.0\Lab5_4_CuncurrentDictionary+IEq.csproj.CoreCompileInputs.cache
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\obj\Debug\net6.0\Lab5_4_CuncurrentDictionary+IEq.dll
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\obj\Debug\net6.0\refint\Lab5_4_CuncurrentDictionary+IEq.dll
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\obj\Debug\net6.0\Lab5_4_CuncurrentDictionary+IEq.pdb
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\obj\Debug\net6.0\Lab5_4_CuncurrentDictionary+IEq.genruntimeconfig.cache
+D:\МНТУ\8ая сессия(3ой_Курс)10_05_2022\Паралельні та розподілені обчислення. Грід системи та технології\Lab5_Cuncurrent_collection\Lab5_4_CuncurrentDictionary+IEq\obj\Debug\net6.0\ref\Lab5_4_CuncurrentDictionary+IEq.dll

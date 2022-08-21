@@ -1,0 +1,16 @@
+D:\МНТУ\Lab1\Labs\bin\Debug\net5.0\Labs.exe
+D:\МНТУ\Lab1\Labs\bin\Debug\net5.0\Labs.deps.json
+D:\МНТУ\Lab1\Labs\bin\Debug\net5.0\Labs.runtimeconfig.json
+D:\МНТУ\Lab1\Labs\bin\Debug\net5.0\Labs.runtimeconfig.dev.json
+D:\МНТУ\Lab1\Labs\bin\Debug\net5.0\Labs.dll
+D:\МНТУ\Lab1\Labs\bin\Debug\net5.0\Labs.pdb
+D:\МНТУ\Lab1\Labs\obj\Debug\net5.0\Labs.csproj.AssemblyReference.cache
+D:\МНТУ\Lab1\Labs\obj\Debug\net5.0\Labs.GeneratedMSBuildEditorConfig.editorconfig
+D:\МНТУ\Lab1\Labs\obj\Debug\net5.0\Labs.AssemblyInfoInputs.cache
+D:\МНТУ\Lab1\Labs\obj\Debug\net5.0\Labs.AssemblyInfo.cs
+D:\МНТУ\Lab1\Labs\obj\Debug\net5.0\Labs.csproj.CoreCompileInputs.cache
+D:\МНТУ\Lab1\Labs\obj\Debug\net5.0\Labs.dll
+D:\МНТУ\Lab1\Labs\obj\Debug\net5.0\refint\Labs.dll
+D:\МНТУ\Lab1\Labs\obj\Debug\net5.0\Labs.pdb
+D:\МНТУ\Lab1\Labs\obj\Debug\net5.0\Labs.genruntimeconfig.cache
+D:\МНТУ\Lab1\Labs\obj\Debug\net5.0\ref\Labs.dll
